@@ -1,0 +1,96 @@
+# ================= NODE / JS / FRONTEND =================
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Diagnostic reports
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Compiled binary addons
+build/Release
+
+# Dependency directories
+node_modules/
+jspm_packages/
+bower_components
+web_modules/
+
+# Build and coverage output
+coverage
+*.lcov
+.nyc_output
+.next
+out
+.nuxt
+dist
+.cache
+.parcel-cache
+.rpt2_cache/
+.rts2_cache_*
+.vuepress/dist
+.temp
+.docusaurus
+.serverless/
+.fusebox/
+.dynamodb/
+.fusebox/
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+*.tgz
+
+# TypeScript
+*.tsbuildinfo
+
+# Tools
+.grunt
+.lock-wscript
+.eslintcache
+.stylelintcache
+.node_repl_history
+.vscode-test
+
+# Env files
+.env
+.env.*.local
+
+# ================= PYTHON / BACKEND =================
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# VSCode settings
+.vscode/
+
+# User-generated / large JSON files
+data/math_dataset.json
+
+# OS-specific
+.DS_Store
+
+# Test/log files
+*.test
+
+# Model files
+*.pkl
+*.npy
+
+# Streamlit
+.streamlit/config.toml
+.streamlit/secrets.toml
