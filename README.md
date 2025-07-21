@@ -12,7 +12,6 @@ An intelligent, LLM-powered math tutoring system that uses **Agentic RAG**, **La
 - 🧠 **Gemini 1.5 Flash** LLM for detailed step-by-step solution generation
 - 🔐 **Input/Output Guardrails** to ensure safe, math-only and student-friendly answers
 - 🌍 **Web Search Fallback** using `Tavily` and `Serper` APIs
-- 🛠 **MCP (Model Context Protocol)** server for multi-tool execution (search, extract, verify)
 - 🗣 **Human-in-the-Loop Feedback System** to capture and use user feedback effectively
 
 ---
@@ -28,18 +27,10 @@ An intelligent, LLM-powered math tutoring system that uses **Agentic RAG**, **La
 | `Gemini 1.5 Flash` | Step-by-step LLM reasoning |
 | `Tavily`, `Serper` | Web search integration |
 | `Streamlit` | Frontend UI |
-| `MCP Server` | Modular tool handling |
 | `FeedbackHandler` | Human feedback integration |
 
 ---
 
-## 💡 Future Work
-
-- 🧪 Integrate **DSPy** for dynamic prompt optimization
-- 🏆 Train & test on **JEE Math benchmark datasets**
-- 🎯 Add live feedback retraining loop for continual improvement
-
----
 
 ## 📸 Screenshots
 
@@ -50,7 +41,7 @@ _Add screenshots of your UI or console output here_
 ## 👨‍💻 Author
 
 **Drupitha Chandrashekar**  
-[GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](#)
+[GitHub](https://github.com/Drupitha-Chandrashekar) | [LinkedIn](www.linkedin.com/in/drupitha-chandrashekar-47511a25b)
 
 ---
 
