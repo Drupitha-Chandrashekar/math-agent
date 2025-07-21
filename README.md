@@ -41,7 +41,7 @@ _Add screenshots of your UI or console output here_
 ## 👨‍💻 Author
 
 **Drupitha Chandrashekar**  
-[GitHub](https://github.com/Drupitha-Chandrashekar) | [LinkedIn](www.linkedin.com/in/drupitha-chandrashekar-47511a25b)
+[GitHub](https://github.com/Drupitha-Chandrashekar) | [LinkedIn](https://www.linkedin.com/in/drupitha-chandrashekar-47511a25b/)
 
 ---
 
