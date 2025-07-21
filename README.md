@@ -34,7 +34,15 @@ An intelligent, LLM-powered math tutoring system that uses **Agentic RAG**, **La
 
 ## 📸 Screenshots
 
-_Add screenshots of your UI or console output here_
+### 📸 Math Tutor UI: Search through knowledge base
+![Math Tutor UI](https://github.com/Drupitha-Chandrashekar/math-agent/blob/main/assets/Screenshot%202025-06-08%20161401.png)
+
+### 💻 Blocked request
+![Console Output](https://github.com/Drupitha-Chandrashekar/math-agent/blob/main/assets/Screenshot%20(149).png)
+
+### Guardrails
+![Guardrails](https://github.com/Drupitha-Chandrashekar/math-agent/blob/main/assets/Screenshot%20(143).png)
+
 
 ---
 
